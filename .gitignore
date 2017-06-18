@@ -1,0 +1,4 @@
+jest_0/
+node_modules/
+*.log
+*.swp
