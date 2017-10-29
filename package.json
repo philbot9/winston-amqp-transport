@@ -16,12 +16,12 @@
     "testEnvironment": "node"
   },
   "peerDependencies": {
-    "winston": "^2.3.1"
+    "winston": "^2.4.0"
   },
   "devDependencies": {
-    "@types/jest": "^20.0.0",
-    "jest": "^20.0.4",
-    "winston": "^2.3.1"
+    "@types/jest": "^21.1.5",
+    "jest": "^21.2.1",
+    "winston": "^2.4.0"
   },
   "dependencies": {
     "amqplib": "^0.5.1"
